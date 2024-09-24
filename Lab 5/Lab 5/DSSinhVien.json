@@ -1,0 +1,26 @@
+﻿{
+  "sinhvien": [
+    {
+      "MSSV": "123456",
+      "HoTen": "wwedwdw",
+      "NgaySinh": "2/2/2003",
+      "Email":"",
+      "DiaChi":"",
+      "Lop":"CTK46",
+      "Hinh":"",
+      "GioiTinh":true,
+      "DienThoai":""
+    },
+    {
+      "MSSV": "123457",
+      "HoTen": "qqwee",
+      "NgaySinh": "2/2/2003",
+      "Email": "",
+      "DiaChi": "",
+      "Lop": "CTK46",
+      "Hinh": "",
+      "GioiTinh": false,
+      "DienThoai": ""
+    }
+  ]
+}

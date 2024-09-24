@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Books.xml stores information about Mahesh Chand and related books
+-->
+<catalog>
+	<ID MSSV="123456">
+		<HoTen> wwedwdw</HoTen>
+		<NgaySinh>"2/2/2003"</NgaySinh>
+		<Email></Email>
+		<DiaChi></DiaChi>
+		<Lop>"CTK46"</Lop>
+		<Hinh></Hinh>
+		<GioiTinh>true</GioiTinh>
+		<DienThoai></DienThoai>
+	</ID>
+	<ID MSSV="123456">
+		<HoTen> wwedwdw</HoTen>
+		<NgaySinh>"2/2/2003"</NgaySinh>
+		<Email></Email>
+		<DiaChi></DiaChi>
+		<Lop>"CTK46"</Lop>
+		<Hinh></Hinh>
+		<GioiTinh>true</GioiTinh>
+		<DienThoai></DienThoai>
+	</ID>
+</catalog>
+
